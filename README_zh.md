@@ -18,6 +18,8 @@
 
 ### 1. [RHCSA 备考指南 (EX200)](https://labex.io/zh/courses/rhcsa-prep)
 
+[![RHCSA 备考指南 (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=zh)](https://labex.io/zh/courses/rhcsa-prep)
+
 这是一门面向初学者的 RHCSA 备考课程，包含 32 个引导式 Red Hat Enterprise Linux 系统管理实验。课程内容由浅入深，涵盖命令行基础、用户管理、服务配置、网络设置、存储管理、SELinux 以及综合复习。
 
 [开始课程](https://labex.io/zh/courses/rhcsa-prep) · 实验: 32
@@ -86,6 +88,8 @@
 
 ### 2. [RHCSA 模拟考试 01](https://labex.io/zh/courses/rhcsa-practice-exam-01)
 
+[![RHCSA 模拟考试 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=zh)](https://labex.io/zh/courses/rhcsa-practice-exam-01)
+
 这是一场实操型 RHCSA 模拟考试，包含 16 个独立的 RHEL 系统管理挑战，涵盖了基础工具、软件与运行系统、存储、网络、用户与组管理以及安全性等核心领域。
 
 [开始课程](https://labex.io/zh/courses/rhcsa-practice-exam-01) · 实验: 16
@@ -132,6 +136,8 @@
 |    4 | 🎯  配置安全的 SSH 与默认文件创建           | 初级   | [开始挑战](https://labex.io/zh/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [RHCSA 模拟考试 02](https://labex.io/zh/courses/rhcsa-practice-exam-02)
+
+[![RHCSA 模拟考试 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=zh)](https://labex.io/zh/courses/rhcsa-practice-exam-02)
 
 这是第二套 RHCSA 实战模拟考试，包含 16 个独立的 RHEL 系统管理挑战，涵盖了基础工具、系统运行、存储、网络、用户与组管理以及安全设置等核心领域。
 
