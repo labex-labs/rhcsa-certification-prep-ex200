@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [Подготовка к RHCSA (EX200)](https://labex.io/ru/courses/rhcsa-prep)
 
+[![Подготовка к RHCSA (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=ru)](https://labex.io/ru/courses/rhcsa-prep)
+
 Курс по подготовке к RHCSA для начинающих, включающий 32 практических задания по администрированию Red Hat Enterprise Linux. Программа охватывает всё: от основ командной строки до управления пользователями, службами, сетью, хранилищами, SELinux и итогового повторения материала.
 
 [Начать Курс](https://labex.io/ru/courses/rhcsa-prep) · Лаборатории: 32
@@ -86,6 +88,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 2. [Практический экзамен RHCSA 01](https://labex.io/ru/courses/rhcsa-practice-exam-01)
 
+[![Практический экзамен RHCSA 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=ru)](https://labex.io/ru/courses/rhcsa-practice-exam-01)
+
 Практический экзамен по RHCSA, включающий 16 независимых заданий по администрированию RHEL. Охватывает ключевые инструменты, управление программным обеспечением, работу с системами, хранилищами, сетями, пользователями, группами и вопросами безопасности.
 
 [Начать Курс](https://labex.io/ru/courses/rhcsa-practice-exam-01) · Лаборатории: 16
@@ -132,6 +136,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 |        4 | 🎯  Безопасный SSH и создание файлов по умолчанию                              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [Практический экзамен RHCSA 02](https://labex.io/ru/courses/rhcsa-practice-exam-02)
+
+[![Практический экзамен RHCSA 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=ru)](https://labex.io/ru/courses/rhcsa-practice-exam-02)
 
 Второй практический экзамен по RHCSA, состоящий из 16 независимых задач по администрированию RHEL. Охватывает ключевые инструменты, управление системами, хранилищами, сетями, пользователями, группами и вопросами безопасности.
 
