@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [Preparatório para RHCSA (EX200)](https://labex.io/pt/courses/rhcsa-prep)
 
+[![Preparatório para RHCSA (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=pt)](https://labex.io/pt/courses/rhcsa-prep)
+
 Um curso preparatório para RHCSA ideal para iniciantes, com 32 experimentos guiados de administração do Red Hat Enterprise Linux, abrangendo desde os fundamentos da linha de comando até usuários, serviços, rede, armazenamento, SELinux e uma revisão integrada.
 
 [Iniciar Curso](https://labex.io/pt/courses/rhcsa-prep) · Labs: 32
@@ -86,6 +88,8 @@ Um curso preparatório para RHCSA ideal para iniciantes, com 32 experimentos gui
 
 ### 2. [Exame Prático RHCSA 01](https://labex.io/pt/courses/rhcsa-practice-exam-01)
 
+[![Exame Prático RHCSA 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=pt)](https://labex.io/pt/courses/rhcsa-practice-exam-01)
+
 Um exame prático e prático de RHCSA com 16 desafios independentes de administração RHEL, abrangendo ferramentas essenciais, software e sistemas em execução, armazenamento, rede, usuários, grupos e segurança.
 
 [Iniciar Curso](https://labex.io/pt/courses/rhcsa-practice-exam-01) · Labs: 16
@@ -132,6 +136,8 @@ Um exame prático e prático de RHCSA com 16 desafios independentes de administr
 |        4 | 🎯  Segurança SSH e Criação de Arquivos Padrão                 | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [Exame Prático RHCSA 02](https://labex.io/pt/courses/rhcsa-practice-exam-02)
+
+[![Exame Prático RHCSA 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=pt)](https://labex.io/pt/courses/rhcsa-practice-exam-02)
 
 Um segundo exame prático e prático de RHCSA com 16 desafios independentes de administração RHEL, abrangendo ferramentas essenciais, sistemas em execução, armazenamento, rede, usuários, grupos e segurança.
 
