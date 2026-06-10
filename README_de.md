@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [RHCSA-Vorbereitung (EX200)](https://labex.io/de/courses/rhcsa-prep)
 
+[![RHCSA-Vorbereitung (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=de)](https://labex.io/de/courses/rhcsa-prep)
+
 Ein einsteigerfreundlicher Vorbereitungskurs für die RHCSA-Zertifizierung mit 32 geführten Red Hat Enterprise Linux-Administrationsübungen. Der Kurs deckt alles ab, von den Grundlagen der Befehlszeile bis hin zu Benutzern, Diensten, Netzwerk, Speicher, SELinux und einer abschließenden integrierten Wiederholung.
 
 [Kurs Starten](https://labex.io/de/courses/rhcsa-prep) · Labs: 32
@@ -86,6 +88,8 @@ Ein einsteigerfreundlicher Vorbereitungskurs für die RHCSA-Zertifizierung mit 3
 
 ### 2. [RHCSA-Übungsprüfung 01](https://labex.io/de/courses/rhcsa-practice-exam-01)
 
+[![RHCSA-Übungsprüfung 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=de)](https://labex.io/de/courses/rhcsa-practice-exam-01)
+
 Eine praxisorientierte RHCSA-Übungsprüfung mit 16 unabhängigen RHEL-Administrations-Herausforderungen, die grundlegende Werkzeuge, Software-Management, laufende Systeme, Speicherverwaltung, Netzwerk-Konfiguration, Benutzer- und Gruppenverwaltung sowie Sicherheit abdecken.
 
 [Kurs Starten](https://labex.io/de/courses/rhcsa-practice-exam-01) · Labs: 16
@@ -132,6 +136,8 @@ Eine praxisorientierte RHCSA-Übungsprüfung mit 16 unabhängigen RHEL-Administr
 |       4 | 🎯  Sicheres SSH und Standard-Dateierstellung                             | Anfänger        | [Challenge Starten](https://labex.io/de/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [RHCSA-Übungsprüfung 02](https://labex.io/de/courses/rhcsa-practice-exam-02)
+
+[![RHCSA-Übungsprüfung 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=de)](https://labex.io/de/courses/rhcsa-practice-exam-02)
 
 Eine zweite praxisorientierte RHCSA-Übungsprüfung mit 16 unabhängigen RHEL-Administrations-Herausforderungen, die grundlegende Werkzeuge, laufende Systeme, Speicherverwaltung, Netzwerk, Benutzer, Gruppen und Sicherheit abdecken.
 
