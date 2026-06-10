@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [RHCSA 준비 과정 (EX200)](https://labex.io/ko/courses/rhcsa-prep)
 
+[![RHCSA 준비 과정 (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=ko)](https://labex.io/ko/courses/rhcsa-prep)
+
 명령줄 기초부터 사용자, 서비스, 네트워킹, 스토리지, SELinux 및 종합 복습까지 32 개의 가이드형 Red Hat Enterprise Linux 관리 실험으로 구성된 초보자용 RHCSA 준비 과정입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhcsa-prep) · 실습: 32
@@ -86,6 +88,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 2. [RHCSA 실전 모의고사 01](https://labex.io/ko/courses/rhcsa-practice-exam-01)
 
+[![RHCSA 실전 모의고사 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=ko)](https://labex.io/ko/courses/rhcsa-practice-exam-01)
+
 필수 도구, 소프트웨어 및 시스템 운영, 스토리지, 네트워킹, 사용자, 그룹, 보안 등 RHEL 관리의 핵심 영역을 다루는 16 개의 독립적인 도전 과제로 구성된 실습형 RHCSA 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhcsa-practice-exam-01) · 실습: 16
@@ -132,6 +136,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 |     4 | 🎯  SSH 보안 및 기본 파일 생성 설정           | 초급    | [도전 시작](https://labex.io/ko/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [RHCSA 실전 모의고사 02](https://labex.io/ko/courses/rhcsa-practice-exam-02)
+
+[![RHCSA 실전 모의고사 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=ko)](https://labex.io/ko/courses/rhcsa-practice-exam-02)
 
 필수 도구, 시스템 운영, 스토리지, 네트워킹, 사용자 및 그룹 관리, 보안 등 RHEL 관리의 핵심 영역을 다루는 16 개의 독립적인 도전 과제로 구성된 두 번째 RHCSA 실전 모의고사입니다.
 
