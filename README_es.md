@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [Preparación para RHCSA (EX200)](https://labex.io/es/courses/rhcsa-prep)
 
+[![Preparación para RHCSA (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=es)](https://labex.io/es/courses/rhcsa-prep)
+
 Un curso de preparación para RHCSA ideal para principiantes, que incluye 32 experimentos guiados de administración de Red Hat Enterprise Linux, organizados desde los fundamentos de la línea de comandos hasta usuarios, servicios, redes, almacenamiento, SELinux y una revisión integral.
 
 [Iniciar Curso](https://labex.io/es/courses/rhcsa-prep) · Laboratorios: 32
@@ -86,6 +88,8 @@ Un curso de preparación para RHCSA ideal para principiantes, que incluye 32 exp
 
 ### 2. [Examen de práctica RHCSA 01](https://labex.io/es/courses/rhcsa-practice-exam-01)
 
+[![Examen de práctica RHCSA 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=es)](https://labex.io/es/courses/rhcsa-practice-exam-01)
+
 Un examen de práctica práctico de RHCSA con 16 desafíos independientes de administración de RHEL que cubren herramientas esenciales, software y sistemas en ejecución, almacenamiento, redes, usuarios, grupos y seguridad.
 
 [Iniciar Curso](https://labex.io/es/courses/rhcsa-practice-exam-01) · Laboratorios: 16
@@ -132,6 +136,8 @@ Un examen de práctica práctico de RHCSA con 16 desafíos independientes de adm
 |        4 | 🎯  Asegurar SSH y la creación de archivos predeterminados         | Principiante | [Iniciar Desafío](https://labex.io/es/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [Examen de práctica RHCSA 02](https://labex.io/es/courses/rhcsa-practice-exam-02)
+
+[![Examen de práctica RHCSA 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=es)](https://labex.io/es/courses/rhcsa-practice-exam-02)
 
 Un segundo examen de práctica práctico de RHCSA con 16 desafíos independientes de administración de RHEL que abarcan herramientas esenciales, ejecución de sistemas, almacenamiento, redes, usuarios, grupos y seguridad.
 
