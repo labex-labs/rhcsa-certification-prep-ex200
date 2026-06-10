@@ -18,6 +18,8 @@ Red Hat Certified System Administrator（RHCSA、EX200）試験に向けた、�
 
 ### 1. [RHCSA 対策コース (EX200)](https://labex.io/ja/courses/rhcsa-prep)
 
+[![RHCSA 対策コース (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=ja)](https://labex.io/ja/courses/rhcsa-prep)
+
 初心者向けの RHCSA 対策コースです。コマンドラインの基礎からユーザー管理、サービス、ネットワーク、ストレージ、SELinux、そして総合復習まで、Red Hat Enterprise Linux の管理スキルを習得するための 32 のガイド付き実験で構成されています。
 
 [コースを開始](https://labex.io/ja/courses/rhcsa-prep) · ラボ: 32
@@ -86,6 +88,8 @@ Red Hat Certified System Administrator（RHCSA、EX200）試験に向けた、�
 
 ### 2. [RHCSA 模擬試験 01](https://labex.io/ja/courses/rhcsa-practice-exam-01)
 
+[![RHCSA 模擬試験 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=ja)](https://labex.io/ja/courses/rhcsa-practice-exam-01)
+
 RHEL の管理スキルを問う 16 の独立した課題で構成された、実践的な RHCSA 模擬試験です。必須ツール、ソフトウェア、システム運用、ストレージ、ネットワーク、ユーザー・グループ管理、セキュリティなど、試験範囲を網羅しています。
 
 [コースを開始](https://labex.io/ja/courses/rhcsa-practice-exam-01) · ラボ: 16
@@ -132,6 +136,8 @@ RHEL の管理スキルを問う 16 の独立した課題で構成された、�
 |        4 | 🎯  SSH のセキュア化とデフォルトのファイル作成設定       | 初級    | [チャレンジを開始](https://labex.io/ja/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [RHCSA 模擬試験 02](https://labex.io/ja/courses/rhcsa-practice-exam-02)
+
+[![RHCSA 模擬試験 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=ja)](https://labex.io/ja/courses/rhcsa-practice-exam-02)
 
 RHCSA 認定試験に向けた実践的な模擬試験の第 2 弾です。RHEL の管理における必須ツール、システム運用、ストレージ、ネットワーク、ユーザー・グループ管理、セキュリティなど、16 個の独立した課題を通じて実力を試すことができます。
 
