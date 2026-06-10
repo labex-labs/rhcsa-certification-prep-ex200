@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [RHCSA Prep (EX200)](https://labex.io/courses/rhcsa-prep)
 
+[![RHCSA Prep (EX200)](https://course-cover.labex.io/rhcsa-prep.png)](https://labex.io/courses/rhcsa-prep)
+
 A beginner-friendly RHCSA preparation course with 32 guided Red Hat Enterprise Linux administration labs arranged from command-line foundations to users, services, networking, storage, SELinux, and integrated review.
 
 [Start Course](https://labex.io/courses/rhcsa-prep) · Labs: 32
@@ -86,6 +88,8 @@ A beginner-friendly RHCSA preparation course with 32 guided Red Hat Enterprise L
 
 ### 2. [RHCSA Practice Exam 01](https://labex.io/courses/rhcsa-practice-exam-01)
 
+[![RHCSA Practice Exam 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png)](https://labex.io/courses/rhcsa-practice-exam-01)
+
 A hands-on RHCSA practice exam with 16 independent RHEL administration challenges covering essential tools, software and running systems, storage, networking, users, groups, and security.
 
 [Start Course](https://labex.io/courses/rhcsa-practice-exam-01) · Labs: 16
@@ -132,6 +136,8 @@ A hands-on RHCSA practice exam with 16 independent RHEL administration challenge
 |       4 | 🎯  Secure SSH and Default File Creation         | Beginner     | [Start Challenge](https://labex.io/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [RHCSA Practice Exam 02](https://labex.io/courses/rhcsa-practice-exam-02)
+
+[![RHCSA Practice Exam 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png)](https://labex.io/courses/rhcsa-practice-exam-02)
 
 A second hands-on RHCSA practice exam with 16 independent RHEL administration challenges covering essential tools, running systems, storage, networking, users, groups, and security.
 
