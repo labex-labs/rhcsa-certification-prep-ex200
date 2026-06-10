@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified System Administrator (RHCSA) exam (EX200) with
 
 ### 1. [Préparation à la certification RHCSA (EX200)](https://labex.io/fr/courses/rhcsa-prep)
 
+[![Préparation à la certification RHCSA (EX200)](https://course-cover.labex.io/rhcsa-prep.png?lang=fr)](https://labex.io/fr/courses/rhcsa-prep)
+
 Un cours de préparation à la certification RHCSA adapté aux débutants, comprenant 32 laboratoires guidés d'administration Red Hat Enterprise Linux, allant des bases de la ligne de commande à la gestion des utilisateurs, des services, du réseau, du stockage, de SELinux et des révisions intégrées.
 
 [Commencer le Cours](https://labex.io/fr/courses/rhcsa-prep) · Labs: 32
@@ -86,6 +88,8 @@ Un cours de préparation à la certification RHCSA adapté aux débutants, compr
 
 ### 2. [Examen blanc RHCSA 01](https://labex.io/fr/courses/rhcsa-practice-exam-01)
 
+[![Examen blanc RHCSA 01](https://course-cover.labex.io/rhcsa-practice-exam-01.png?lang=fr)](https://labex.io/fr/courses/rhcsa-practice-exam-01)
+
 Un examen blanc pratique pour la certification RHCSA composé de 16 défis d'administration RHEL indépendants, couvrant les outils essentiels, les logiciels, les systèmes en cours d'exécution, le stockage, la mise en réseau, la gestion des utilisateurs et des groupes, ainsi que la sécurité.
 
 [Commencer le Cours](https://labex.io/fr/courses/rhcsa-practice-exam-01) · Labs: 16
@@ -132,6 +136,8 @@ Un examen blanc pratique pour la certification RHCSA composé de 16 défis d'adm
 |       4 | 🎯  Sécurisation SSH et création de fichiers par défaut                  | Débutant     | [Commencer le Défi](https://labex.io/fr/labs/rhel-secure-ssh-and-default-file-creation-664530?course=rhcsa-practice-exam-01)         |
 
 ### 3. [Examen pratique RHCSA 02](https://labex.io/fr/courses/rhcsa-practice-exam-02)
+
+[![Examen pratique RHCSA 02](https://course-cover.labex.io/rhcsa-practice-exam-02.png?lang=fr)](https://labex.io/fr/courses/rhcsa-practice-exam-02)
 
 Un second examen pratique RHCSA axé sur la mise en pratique, composé de 16 défis d'administration RHEL indépendants couvrant les outils essentiels, l'exécution des systèmes, le stockage, la mise en réseau, la gestion des utilisateurs et des groupes, ainsi que la sécurité.
 
